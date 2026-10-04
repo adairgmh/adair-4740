@@ -1,0 +1,19 @@
+# Dependencias instaladas con npm
+node_modules/
+
+# Archivos generados al compilar y ejecutar pruebas
+dist/
+coverage/
+*.tsbuildinfo
+
+# Configuración local y variables de entorno
+.env
+.env.*
+!.env.example
+
+# Registros de errores y archivos de macOS
+*.log
+.DS_Store
+
+# Documento privado con las instrucciones de la prueba
+Instrucciones.pdf
