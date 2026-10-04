@@ -14,6 +14,3 @@ coverage/
 # Registros de errores y archivos de macOS
 *.log
 .DS_Store
-
-# Documento privado con las instrucciones de la prueba
-Instrucciones.pdf
